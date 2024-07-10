@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Stockfish-NNUE/Stockfish-NNUE/assets/39222096/cfff723e-1046-48bf-9ce4-6890cf8481f8">
+  <img src="https://github.com/Stockfish-NNUE/Stockfish-NNUE/assets/175236931/1134aea7-fdb5-4468-975f-c290152da37a" width="30%">
 </p>
 
 <h1 align="center">Stockfish NNUE</h1>
